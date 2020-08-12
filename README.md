@@ -1,6 +1,7 @@
 # saoma
  v1.0
 扫码枪可以实现无焦点捕获扫码输入，并上传数据服务。
+[github](https://github.com/chygfm/saoma)  [下载](https://cdn.jsdelivr.net/gh/chygfm/saoma@master/saoma.zip)
 - 1、 分为免费版和注册版：
     免费版上传数据有限制。每次可上传20条数据，每天可上传200条数据，总共可上传60000条数据
     注册版没有限制
