@@ -12,11 +12,11 @@
    (4)扫码以回车13为结束，扫码的字符输入间隔可调整，一般60-80毫秒。
    
 The sweep gun enables focusless capture of sweep code input and uploads data services.
--1, divided into free version and registered version:
+- 1, divided into free version and registered version:
     There are limits to free versions of upload data. You can upload 20 pieces of data at a time, 200 pieces of data per day, and a total of 60,000 pieces of data can be uploaded.
     There are no restrictions on the registration.
--2, the software does not record and save upload any information.
--3, other instructions.
+- 2, the software does not record and save upload any information.
+- 3, other instructions.
    - (1) Open the software, click the mouse input box, sweep the code can be.
    - (2) do not consider the mouse, directly monitor the sweep code input, if 360 guard prompt shaver to monitor please pass.
    - (3) In the settings, you can modify the scan data and upload function. You can't save the data until it's saved immediately.
