@@ -4,13 +4,15 @@
  扫码枪(条码枪CCSP Scan)v1.0扫可以实现无焦点捕获输入，支持串口和USB接口、上传数据。 
   [github](https://github.com/chygfm/saoma)    小巧精悍，不到1M。  [下载](https://cdn.jsdelivr.net/gh/chygfm/saoma@master/saoma.zip)
    
-  USB接口![在这里插入图片描述](https://img-blog.csdnimg.cn/20200824115821918.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoeWczMQ==,size_16,color_FFFFFF,t_70#pic_center)
+  USB接口
+  ![](https://img-blog.csdnimg.cn/20200824115821918.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoeWczMQ==,size_16,color_FFFFFF,t_70#pic_center)
+
 设置
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200824115912530.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoeWczMQ==,size_16,color_FFFFFF,t_70#pic_center)
+![](https://img-blog.csdnimg.cn/20200824115912530.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoeWczMQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 
 串口
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200824120101323.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoeWczMQ==,size_16,color_FFFFFF,t_70#pic_center)
+![](https://img-blog.csdnimg.cn/20200824120101323.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoeWczMQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 
 # 概述
